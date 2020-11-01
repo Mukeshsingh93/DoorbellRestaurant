@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "555448771442",
+    "firebase_url": "https://ozzy-restaurant.firebaseio.com",
+    "project_id": "ozzy-restaurant",
+    "storage_bucket": "ozzy-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555448771442:android:563889069d874c0f0cf3eb",
+        "android_client_info": {
+          "package_name": "com.rs.doorbellvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555448771442-j4ftk8bj1ns2ap37st84idg7jn9mefn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCwoLIU9EznA8G77ZNimmBxtv-2NM0eJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555448771442-j4ftk8bj1ns2ap37st84idg7jn9mefn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
